@@ -164,8 +164,8 @@ employee-productivity-analysis/
 ├── notebooks/
 │   └── prepaired_data.ipynb
 │
-├── scripts/
-│   └── scripts_analysis.pdf
+├── report/
+│   └── report.pdf
 │
 ├── powerBI/
 │   └── dashboard.pbix
